@@ -1,0 +1,8 @@
+app_identifier("nalin.com.aircoinstest1") # The bundle identifier of your app
+apple_id("pranjal.verma@icloud.com") # Your Apple email address
+
+itc_team_id("125163094") # App Store Connect Team ID
+team_id("C46R6LYQ84") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
